@@ -1,16 +1,66 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm Mani 👋</h1>
+<h3 align="center">VLSI Design Engineer | Digital & Analog IC enthusiast</h3>
 
-<!--
-**mani0358/mani0358** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Chip+Design+%7C+RTL+to+GDSII;Verilog+%7C+VHDL+%7C+SystemVerilog;ASIC+%7C+FPGA+%7C+Physical+Design" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🔬 I work on **VLSI Design** — from RTL to physical implementation
+- ⚡ Interested in **Digital Design, Verification, and Physical Design**
+- 🛠️ Currently exploring ASIC/FPGA flows and low-power design techniques
+- 📚 Always learning new EDA tools and design methodologies
+- 💬 Ask me about Verilog, VHDL, digital logic design, or chip design flows
+- 📫 Reach me at: **manjinderdhhunike@gmail.com**
+
+---
+
+### 🧰 Tools & Technologies
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Verilog-CC0000?style=for-the-badge&logo=v&logoColor=white" />
+  <img src="https://img.shields.io/badge/VHDL-4B0082?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SystemVerilog-1E90FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cadence-005073?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Synopsys-0072C6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/ModelSim-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Xilinx_Vivado-E31937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=mani0358&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mani0358&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mani0358&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+---
+
+### 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/manjinder-singh-3b582b337/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:manjinderdhhunike@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mani0358&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
