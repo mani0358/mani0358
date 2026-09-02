@@ -39,14 +39,24 @@
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=mani0358&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mani0358&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mani0358&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mani0358&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://raw.githubusercontent.com/mani0358/mani0358/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| [SDRAM Controller – ASIC Flow](https://github.com/VLSI-INTEGRATION/SDRAM-Controller-ASIC-Design) | Designed and implemented an SDRAM controller taken through the full ASIC design flow — RTL, synthesis, and timing/physical checks | Verilog, Synopsys DC |
+| [PRESENT-80 Lightweight Cipher](https://github.com/mani0358/present80-tapeout-1.2um) | RTL implementation of the PRESENT-80 lightweight block cipher, targeting low-power and low-area constraints typical of embedded security | Verilog, ModelSim |
+| [FPGA-to-FPGA Wireless Communication](https://github.com/mani0358/wireless_comm_between_fpga) | Built a wireless data link between two FPGA boards, handling serialization, transmission, and protocol-level logic on hardware | Verilog/VHDL, Xilinx Vivado |
+
+> ✏️ Replace `repo-name` in each link with your actual repo URL.
 
 ---
 
@@ -56,7 +66,7 @@
   <a href="https://www.linkedin.com/in/manjinder-singh-3b582b337/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:manjinderdhhunike@gmail.com">
+  <a href="mailto:manjinderdhunike@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
