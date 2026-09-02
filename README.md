@@ -14,7 +14,7 @@
 - 🛠️ Currently exploring ASIC/FPGA flows and low-power design techniques
 - 📚 Always learning new EDA tools and design methodologies
 - 💬 Ask me about Verilog, VHDL, digital logic design, or chip design flows
-- 📫 Reach me at: **manjinderdhhunike@gmail.com**
+- 📫 Reach me at: **manjinderdhunike@gmail.com**
 
 ---
 
