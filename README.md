@@ -14,7 +14,7 @@
 - 🛠️ Currently exploring ASIC/FPGA flows and low-power design techniques
 - 📚 Always learning new EDA tools and design methodologies
 - 💬 Ask me about Verilog, VHDL, digital logic design, or chip design flows
-- 📫 Reach me at: **manjinderdhhunike@gmail.com**
+- 📫 Reach me at: **manjinderdhunike@gmail.com**
 
 ---
 
@@ -38,8 +38,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=mani0358&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mani0358&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=mani0358&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F7B93E&icon_color=1E90FF&text_color=C9D1D9" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=mani0358&layout=compact&hide_border=true&bg_color=0D1117&title_color=F7B93E&text_color=C9D1D9" alt="Top Languages" height="165"/>
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
   <a href="https://www.linkedin.com/in/manjinder-singh-3b582b337/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:manjinderdhhunike@gmail.com">
+  <a href="mailto:manjinderdhunike@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
