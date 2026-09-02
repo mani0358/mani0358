@@ -70,5 +70,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mani0358&style=flat-square&color=blue" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=mani0358&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS&labelColor=1a1b27" alt="Profile Views"/>
 </p>
