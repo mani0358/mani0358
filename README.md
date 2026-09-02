@@ -14,7 +14,7 @@
 - 🛠️ Currently exploring ASIC/FPGA flows and low-power design techniques
 - 📚 Always learning new EDA tools and design methodologies
 - 💬 Ask me about Verilog, VHDL, digital logic design, or chip design flows
-- 📫 Reach me at: **manjinderdhunike@gmail.com**
+- 📫 Reach me at: **manjinderdhhunike@gmail.com**
 
 ---
 
@@ -56,8 +56,6 @@
 | [PRESENT-80 Lightweight Cipher](https://github.com/mani0358/present80-tapeout-1.2um) | RTL implementation of the PRESENT-80 lightweight block cipher, targeting low-power and low-area constraints typical of embedded security | Verilog, ModelSim |
 | [FPGA-to-FPGA Wireless Communication](https://github.com/mani0358/wireless_comm_between_fpga) | Built a wireless data link between two FPGA boards, handling serialization, transmission, and protocol-level logic on hardware | Verilog/VHDL, Xilinx Vivado |
 
-> ✏️ Replace `repo-name` in each link with your actual repo URL.
-
 ---
 
 ### 🌐 Connect With Me
@@ -66,7 +64,7 @@
   <a href="https://www.linkedin.com/in/manjinder-singh-3b582b337/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:manjinderdhunike@gmail.com">
+  <a href="mailto:manjinderdhhunike@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
