@@ -35,16 +35,6 @@
 
 ---
 
-### 🎡 Tech Stack
-
-<p align="center">
-  <marquee behavior="scroll" direction="left" scrollamount="5">
-    <img src="https://skillicons.dev/icons?i=python,linux,git,vscode,c,cpp,bash,vim&theme=dark" height="60"/>
-  </marquee>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -54,39 +44,6 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mani0358/mani0358/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
-</p>
-
-<br/>
-
-<h3 align="center">📈 Live Activity Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mani0358&bg_color=0D1117&color=F7B93E&line=1E90FF&point=F7B93E&area=true&hide_border=true" alt="Activity Graph" />
-</p>
-
-<br/>
-
-<h3 align="center">🔥 Contribution Heatmap</h3>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/1E90FF/mani0358" alt="Contribution Heatmap" width="100%"/>
-</p>
-
-<br/>
-
-<h3 align="center">📌 Top Repos</h3>
-
-<p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=mani0358&repo=present80-tapeout-1.2um&theme=tokyonight&hide_border=true" height="150"/>
-  <img src="https://github-stats-extended.vercel.app/api/pin/?username=mani0358&repo=wireless_comm_between_fpga&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<br/>
-
-<h3 align="center">💻 whoami</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=1E90FF&background=0D111700&center=true&vCenter=true&width=600&lines=%24+whoami;mani0358+%E2%80%94+vlsi+design+engineer;%24+cat+skills.txt;verilog+%7C+vhdl+%7C+asic+%7C+fpga;%24+echo+%24STATUS;compiling+ideas+into+silicon..." alt="Terminal" />
 </p>
 
 ---
@@ -112,6 +69,6 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mani0358&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS&labelColor=1a1b27" alt="Profile Views"/>
 </p>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E90FF,100:0D1117&height=100&section=footer" width="100%"/>
