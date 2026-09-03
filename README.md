@@ -61,7 +61,7 @@
 <h3 align="center">📈 Live Activity Graph</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mani0358&theme=tokyo-night&bg_color=0D1117&color=F7B93E&line=1E90FF&point=F7B93E&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mani0358&bg_color=0D1117&color=F7B93E&line=1E90FF&point=F7B93E&area=true&hide_border=true" alt="Activity Graph" />
 </p>
 
 <br/>
@@ -112,8 +112,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mani0358&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS&labelColor=1a1b27" alt="Profile Views"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E90FF,100:0D1117&height=100&section=footer" width="100%"/>
