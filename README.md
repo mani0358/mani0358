@@ -101,4 +101,4 @@
   <img src="https://komarev.com/ghpvc/?username=mani0358&style=for-the-badge&color=1a1b27&label=PROFILE+VIEWS&labelColor=1a1b27" alt="Profile Views"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1E90FF,100:0D1117&height=100&section=footer" width="100%"/>
+
