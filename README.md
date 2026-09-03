@@ -43,7 +43,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mani0358/mani0358/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://raw.githubusercontent.com/mani0358/mani0358/output/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
