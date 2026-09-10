@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Mani 👋</h1>
+<h1 align="center">Hi there, I'm Manjinder 👋</h1>
 <h3 align="center">VLSI Design Engineer | Digital & Analog IC enthusiast</h3>
 
 <p align="center">
