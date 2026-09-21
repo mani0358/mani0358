@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Manjinder 👋</h1>
 <h3 align="center">VLSI Design Engineer | Digital & Analog IC enthusiast</h3>
-
+    
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7B93E&center=true&vCenter=true&width=500&lines=Chip+Design+%7C+RTL+to+GDSII;Verilog+%7C+VHDL+%7C+SystemVerilog;ASIC+%7C+FPGA+%7C+Physical+Design" alt="Typing SVG" />
 </p>
